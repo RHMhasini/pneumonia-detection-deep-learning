@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Score,Sensitivity,Specificity,AUC,True_Negatives,False_Positives,False_Negatives,True_Positives,Training_Time_Minutes
+Simple_CNN,0.7644230769230769,0.7279549718574109,0.9948717948717949,0.8407367280606717,0.9948717948717949,0.3803418803418803,0.9167543282927898,89,145,2,388,55.2
