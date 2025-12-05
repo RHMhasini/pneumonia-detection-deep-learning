@@ -4,13 +4,14 @@
 Deep learning project for detecting pneumonia from chest X-ray images using CNN and transfer learning.
 
 ## Current Progress
-- ✅ Dataset organized (5,856 images)
-- ✅ Simple CNN baseline trained (76.44% test accuracy)
-- ✅ Full evaluation and visualization completed
-- 🔄 ResNet18 transfer learning (in progress)
+- Dataset organized (5,856 images)
+- Simple CNN baseline trained (76.44% test accuracy)
+- Full evaluation and visualization completed
+- ResNet18 transfer learning (in progress)
 
 ## Dataset
 - **Source:** Kaggle Chest X-Ray Images (Pneumonia)
+- https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 - **Train:** 4,310 images
 - **Validation:** 922 images
 - **Test:** 624 images
@@ -36,14 +37,7 @@ Deep learning project for detecting pneumonia from chest X-ray images using CNN 
 - `results/` - Training history, metrics, visualizations
 - `notebooks/` - Jupyter notebooks
 
-## Next Steps
-- Train ResNet18 with transfer learning
-- Develop Streamlit web application
-- Create Power BI dashboard
-- Implement Grad-CAM visualization
 
 ## Author
-[Your Name]
+Hasini Herath
 
-## License
-MIT License
